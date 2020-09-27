@@ -28,7 +28,7 @@
     
     [self.view addSubview:_webView];
     
-    NSString *url = @"http://wap.baidu.com";
+    NSString *url = @"https://onbibi.com/ios";
     
     NSURLRequest *req = [[NSURLRequest  alloc]initWithURL:[NSURL URLWithString:url]];
     
