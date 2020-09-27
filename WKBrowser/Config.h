@@ -17,7 +17,7 @@
 
 #define TDataKey    @"8B4FADC1555D426BB9CB65C0E9E4D3C7"
 
-#define APPSTOREID    @"1308946668"
+#define APPSTOREID    @"1530776490"
 
 
 #define BUNDLEID    ([[NSBundle mainBundle] bundleIdentifier])
