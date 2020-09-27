@@ -12,10 +12,10 @@
 
 
 
-#define UMengKey    @"59e6b66c99f0c70b7d000170"
-#define JPushKey    @"04a4d779d559b2d8a4ce6901"
+#define UMengKey    @"xxx"
+#define JPushKey    @"xxx"
 
-#define TDataKey    @"8B4FADC1555D426BB9CB65C0E9E4D3C7"
+#define TDataKey    @"xxx"
 
 #define APPSTOREID    @"1530776490"
 
@@ -24,12 +24,12 @@
 
 #define APPName ([[[NSBundle mainBundle]infoDictionary] objectForKey:@"CFBundleDisplayName"])
 
-#define CloudID    @"odrdhMhBqEgL6XYyjyYNVdQt-gzGzoHsz"
-#define CloudKey    @"LcLtjYS3QaVw3zy2OiAd89Rz"
+#define CloudID    @"xxx"
+#define CloudKey    @"xxx"
 
 
 
-#define MAINCOLOR (RGB(62,153,206))
+#define MAINCOLOR (RGB(159,239,168))
 
 
 
