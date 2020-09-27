@@ -321,7 +321,7 @@
         
     } else {
       
-        words = [NSString stringWithFormat:@"https://wap.baidu.com/from=1009547a/s?word=%@",words];
+        words = [NSString stringWithFormat:@"https://onbibi.com/search?q=%@",words];
 //        NSString *transString = [NSString stringWithString:[string stringByReplacingPercentEscapesUsingEncoding:NSUTF8StringEncoding]];
         
         words = [words stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
